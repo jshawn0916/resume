@@ -5,8 +5,6 @@ Studying in Humber College
 #HTML #CSS #JS #Vue.js</p>
 - <img width="80%" src="https://github.com/jshawn0916/resume/assets/77664228/17ef5426-2c5c-4905-b6e5-14888109055b"/>
 ## Projects
-- AVOCART : 
-- Hella Company<
 |Name|URL|Technology|
 |:---|:---|:---|
 |**AVOCART**|<a href="https://avocart.kr/"></a>|#PHP #Vue.js #Laravel|
