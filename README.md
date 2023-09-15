@@ -1,5 +1,5 @@
-# Suyeon(Skylor) Jang
-- 🙋🏻‍♀️Hello! I'm Skylor
+# 🙋🏻‍♀️Suyeon(Skylor) Jang
+- Hello! I'm Skylor
 I'm a Front-end Developer.
 Studying in Humber College
 - #HTML #CSS #JS #Vue.js #Less #Node.js #Laravel #Express #tailwind.css
