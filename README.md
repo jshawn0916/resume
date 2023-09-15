@@ -2,15 +2,13 @@
 - <p>🙋🏻‍♀️Hello! I'm Skylor
 I'm a Front-end Developer.
 Studying in Humber College
-#HTML #CSS #JS #Vue.js</p>
-- <img width="80%" src="https://github.com/jshawn0916/resume/assets/77664228/17ef5426-2c5c-4905-b6e5-14888109055b"/>
+**#HTML** **#CSS** **#JS** #Vue.js #Less #Node.js #Laravel #Express #tailwind.css
+![my_img](./_readme/my_img.jpeg)
 ## Projects
-- AVOCART : 
-- Hella Company<
 |Name|URL|Technology|
-|---|---|---|
-|**AVOCART**|<a href="https://avocart.kr/"></a>|#PHP #Vue.js #Laravel|
-|**Hella Company**|a href="https://www.hellacompany.co.kr/"></a>|#Node.js #express #Less|
+|:---|:---|:---|
+|**AVOCART**|"https://avocart.kr/"</a>|#PHP #Vue.js #Laravel|
+|**Hella Company**|"https://www.hellacompany.co.kr/></a>|#Node.js #express #Less|
 <!-- |테스트1|<span style="color:red">강조3</span>|테스트3| -->
 ## Education
 - Pukyoung University(2015-2020) : Business Management & Marine police
