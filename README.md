@@ -2,14 +2,13 @@
 - Hello! I'm Skylor
 I'm a Front-end Developer.
 Studying in Humber College
-<<<<<<< HEAD
 **#HTML** **#CSS** **#JS** #Vue.js #Less #Node.js #Laravel #Express #tailwind.css
 ![my_img](./_readme/my_img.jpeg)
 ## Projects
 |Name|URL|Technology|
 |:---|:---|:---|
-|**AVOCART**|"https://avocart.kr/"</a>|#PHP #Vue.js #Laravel|
-|**Hella Company**|"https://www.hellacompany.co.kr/"</a>|#Node.js #express #Less|
+|**AVOCART**|https://avocart.kr/|#PHP #Vue.js #Laravel|
+|**Hella Company**|https://www.hellacompany.co.kr/|#Node.js #express #Less|
 <!-- |테스트1|<span style="color:red">강조3</span>|테스트3| -->
 
 ## Education
