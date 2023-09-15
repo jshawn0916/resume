@@ -1,15 +1,25 @@
 # Suyeon(Skylor) Jang
-- <p>🙋🏻‍♀️Hello! I'm Skylor
+- 🙋🏻‍♀️Hello! I'm Skylor
 I'm a Front-end Developer.
 Studying in Humber College
-#HTML #CSS #JS #Vue.js</p>
-- <img width="80%" src="https://github.com/jshawn0916/resume/assets/77664228/17ef5426-2c5c-4905-b6e5-14888109055b"/>
+#HTML #CSS #JS #Vue.js #Less #Node.js #Laravel #Express
+
+![0403913B-3390-4B2A-B5AC-C4E5CCF3B878_1_105_c](https://github.com/jshawn0916/resume/assets/77664228/49d91e15-9344-4a74-87f2-ace6b8898468)
+
+
 ## Projects
 |Name|URL|Technology|
 |:---|:---|:---|
-|**AVOCART**|<a href="https://avocart.kr/"></a>|#PHP #Vue.js #Laravel|
-|**Hella Company**|<a href="https://www.hellacompany.co.kr/"></a>|#Node.js #express #Less|
-<!-- |테스트1|<span style="color:red">강조3</span>|테스트3| -->
+|asdsad|asdsadsa|asdsadsa|
+|asdasdsa|asdasdsa|asdsadsa|
+|Name|URL|Technology|
+
+
+
+|Name|URL|Technology|
+|:---|:---|:---|
+|**AVOCART**|dasds|#PHP #Vue.js #Laravel|
+|**Hella Company**|[sad](https://www.hellacompany.co.kr/)|#Node.js #express #Less|
 ## Education
 - Pukyoung University(2015-2020) : Business Management & Marine police
 - Humber College(2023-2024) : Web Development
