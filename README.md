@@ -2,24 +2,14 @@
 - 🙋🏻‍♀️Hello! I'm Skylor
 I'm a Front-end Developer.
 Studying in Humber College
-#HTML #CSS #JS #Vue.js #Less #Node.js #Laravel #Express
+#HTML #CSS #JS #Vue.js #Less #Node.js #Laravel #Express #tailwind.css
 
 ![0403913B-3390-4B2A-B5AC-C4E5CCF3B878_1_105_c](https://github.com/jshawn0916/resume/assets/77664228/49d91e15-9344-4a74-87f2-ace6b8898468)
 
-
-## Projects
 |Name|URL|Technology|
 |:---|:---|:---|
-|asdsad|asdsadsa|asdsadsa|
-|asdasdsa|asdasdsa|asdsadsa|
-|Name|URL|Technology|
-
-
-
-|Name|URL|Technology|
-|:---|:---|:---|
-|**AVOCART**|dasds|#PHP #Vue.js #Laravel|
-|**Hella Company**|[sad](https://www.hellacompany.co.kr/)|#Node.js #express #Less|
+|**AVOCART**|(https://avocart.kr/)|#PHP #Vue.js #tailwind.css #Laravel|
+|**Hella Company**|(https://www.hellacompany.co.kr/)|#Node.js #express #Less|
 ## Education
 - Pukyoung University(2015-2020) : Business Management & Marine police
 - Humber College(2023-2024) : Web Development
