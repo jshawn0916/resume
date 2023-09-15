@@ -8,9 +8,9 @@ Studying in Humber College
 - AVOCART : 
 - Hella Company<
 |Name|URL|Technology|
-|---|---|---|
+|:---|:---|:---|
 |**AVOCART**|<a href="https://avocart.kr/"></a>|#PHP #Vue.js #Laravel|
-|**Hella Company**|a href="https://www.hellacompany.co.kr/"></a>|#Node.js #express #Less|
+|**Hella Company**|<a href="https://www.hellacompany.co.kr/"></a>|#Node.js #express #Less|
 <!-- |테스트1|<span style="color:red">강조3</span>|테스트3| -->
 ## Education
 - Pukyoung University(2015-2020) : Business Management & Marine police
